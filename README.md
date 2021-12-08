@@ -8,8 +8,7 @@ Release Date: December 1, 2021 <br>
 ------------------------------------------------------------------------
 # Introduction
 
-This assignment will introduce server-side programming, using an Art
-Store template.
+An introduction to server-side programming, using an Art Store template.
 
 To get started, you need to have XAMPP up and running, and mainly 
 written PHP code. You also need to have Apache and myPHPAdmin/MariaDB 
