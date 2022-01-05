@@ -22,7 +22,7 @@ using the following credentials:
 # Description
 
 The program an online art store which allows users to search, browse, 
-and select paintings filters by artist, museams, and shapes. The user
+and select paintings filters by artist, museums, and shapes. The user
 can navigate onto the single painting page to get more details on a 
 specific painting. The user may also decide to add painting to a
 favorites pages as well.
